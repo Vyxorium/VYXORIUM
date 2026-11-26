@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 DHANUSH
+# ⚡ DHANUSH
 ### **Full-Stack Developer • ML & Computer Vision • Systems Explorer**
 
 <br/>
@@ -13,7 +13,7 @@
 
 <!-- Dynamic Interactive Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=560&lines=%E2%9A%A1+Engineering+Intelligent+Software;%F0%9F%A7%A0+Computer+Vision+%26+Mask+Detection;%F0%9F%A4%96+Telegram+Bots+%26+Automations;%F0%9F%96%A5%EF%B8%8F+VPS+Hosting+%26+Linux+Deployments;%F0%9F%9A%80+Exploring+Golang+%26+System+Architecture" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=560&lines=%E2%9A%A1+Engineering+Intelligent+Software;%F0%9F%A7%A0+Computer+Vision+%26+Mask+Detection;%F0%9F%A4%96+Telegram+Bots+%26+Automations;%F0%9F%96%A5%EF%B8%8F+VPS+Hosting+%26+Linux+Deployments;Exploring+Golang+%26+System+Architecture" alt="Typing Banner" />
 </a>
 
 <br/>
