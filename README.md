@@ -7,7 +7,6 @@
 
 [![Status](https://img.shields.io/badge/STATUS-ACTIVE_BUILDER_%26_TESTER-00D4FF?style=for-the-badge&logoColor=white)](https://github.com/Vyxorium)
 [![Visitors](https://komarev.com/ghpvc/?username=Vyxorium&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Vyxorium)
-[![Followers](https://img.shields.io/github/followers/Vyxorium?style=for-the-badge&logo=github&color=21262d&logoColor=white)](https://github.com/Vyxorium)
 
 <br/><br/>
 
