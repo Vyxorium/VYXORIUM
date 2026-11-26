@@ -12,7 +12,7 @@
 
 <!-- Dynamic Interactive Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=560&lines=%E2%9A%A1+Engineering+Intelligent+Software;%F0%9F%A7%A0+Computer+Vision+%26+Mask+Detection;%F0%9F%A4%96+Telegram+Bots+%26+Automations;%F0%9F%96%A5%EF%B8%8F+VPS+Hosting+%26+Linux+Deployments;Exploring+Golang+%26+System+Architecture" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=560&lines=%E2%9A%A1+Engineering+Intelligent+Software;%F0%9F%A7%A0+Computer+Vision+%26+Mask+Detection;%F0%9F%A4%96+AI+Chatbots+%26+Support+Systems;%F0%9F%92%AC+Telegram+Bots+%26+Automations;%F0%9F%96%A5%EF%B8%8F+VPS+Hosting+%26+Linux+Deployments;Exploring+Golang+%26+System+Architecture" alt="Typing Banner" />
 </a>
 
 <br/>
@@ -25,7 +25,7 @@
 
 I'm **Dhanush**, a junior software engineer who learns by building, testing, and shipping across diverse technical domains. 
 
-My work spans from **Applied Machine Learning, Deep Learning, and Data Science** (including practical Computer Vision projects like face mask detection) to **Full-Stack Web Development**, **Telegram Bot automations**, and self-hosting services on **Linux VPS infrastructure**. I believe in practical execution: testing different technologies directly to understand their mechanics and deploying real, functioning tools.
+My work spans from **Applied Machine Learning, Deep Learning, and Data Science** (including practical Computer Vision projects like face mask detection) to **AI Chatbots & Automated Support Systems**, **Full-Stack Web Development**, **Telegram Bots**, and self-hosting services on **Linux VPS infrastructure**. I believe in practical execution: testing different technologies directly to understand their mechanics and deploying real, functioning tools.
 
 ---
 
@@ -47,7 +47,7 @@ My work spans from **Applied Machine Learning, Deep Learning, and Data Science**
 | Layer | Specialization & Tools |
 | :--- | :--- |
 | 🧠 **AI, ML & Vision** | **Machine Learning**, **Deep Learning**, **Data Science**, **OpenCV**, **Face Mask Detection** |
-| ⚙️ **Backend & Bots** | **Python**, **Node.js**, **JavaScript**, **Telegram Bot API**, Automation Scripting |
+| ⚙️ **Chatbots, Backend & Bots** | **AI Chatbots**, **Support Systems**, **Python**, **Node.js**, **JavaScript**, **Telegram Bot API**, Automation Scripting |
 | 🌐 **Frontend Works** | **HTML5**, **CSS3**, **JavaScript**, Small & Responsive UI Interfaces |
 | 🖥️ **Infrastructure & Ops** | **Linux Environments**, **VPS Server Hosting**, Remote Deployments & Server Admin |
 | 🧪 **Active Learning** | **Golang (Concurrent Backend Programming)**, Exploring & Testing Diverse Software Stacks |
@@ -70,12 +70,12 @@ My work spans from **Applied Machine Learning, Deep Learning, and Data Science**
 </td>
     <td width="50%" valign="top">
 
-### 🤖 **02. Telegram Bots & Automations**
-* Developed custom **Telegram Bots** for automated messaging and workflows.
-* Handled command dispatching, API webhooks, and background script executions.
-* Focused on building practical automation utilities that save time.
+### 🤖 **02. AI Chatbots & Support Systems**
+* Building conversational **AI Chatbots** and automated **Customer/User Support Systems**.
+* Developed custom **Telegram Bots** for automated messaging, notifications, and workflows.
+* Handled conversational logic, command dispatching, and background automated tasks.
 
-`Telegram API` `Node.js` `Python` `Automation`
+`AI Chatbots` `Support Systems` `Telegram API` `Node.js` `Python`
 
 </td>
   </tr>
@@ -111,12 +111,13 @@ My work spans from **Applied Machine Learning, Deep Learning, and Data Science**
 system_spec:
   developer: "Dhanush (@Vyxorium)"
   core_competencies:
+    - "AI Chatbots & Automated Support Systems"
     - "Computer Vision & Mask Detection"
-    - "Telegram Bot Engineering"
+    - "Telegram Bot Engineering & Automation"
     - "Full-Stack Development (Node.js / Python)"
     - "VPS Infrastructure & Linux Deployment"
   current_labs:
-    active_development: "Combining ML vision models with backend services"
+    active_development: "Developing AI support chatbots & integrating vision models"
     expansion_track: "Golang for high-performance server logic"
     methodology: "Testing diverse software stacks through real-world deployment"
   status: "Open to junior engineering roles, internships, and collaborative builds"
